@@ -50,29 +50,33 @@ I enjoy building applications where **frontend architecture, backend integration
 
 </p>
 
+**Core:** `Angular Architecture` · `Reusable Components` · `Responsive Design` · `Reactive Forms` · `Lazy Loading` · `Route Guards`
+
+---
+
 ### 🔄 Reactive & State Management
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=rxjs" />
 
-<br/>
-
-`RxJS` &nbsp; `NgRx` &nbsp; `Reactive Forms` &nbsp; `Change Detection` &nbsp; `Lazy Loading`
-
 </p>
+
+`RxJS` · `NgRx` · `Reactive Programming` · `Change Detection` · `Observable Patterns`
+
+---
 
 ### ⚙️ Backend
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-
-<br/>
-
-`Java` &nbsp; `Spring Boot` &nbsp; `REST APIs` &nbsp; `JWT` &nbsp; `RBAC`
+<img src="https://skillicons.dev/icons?i=java,spring" />
 
 </p>
+
+`Java` · `Spring Boot` · `REST APIs` · `JWT` · `RBAC` · `API Integration`
+
+---
 
 ### 🗄️ Database
 
@@ -82,19 +86,15 @@ I enjoy building applications where **frontend architecture, backend integration
 
 </p>
 
+`MySQL` · `PostgreSQL` · `SQL`
+
+---
+
 ### 🔧 Tools & Development
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,jenkins,webpack,vscode" />
-
-</p>
-
-### 🧠 Engineering Practices
-
-<p align="left">
-
-`Angular Architecture` · `Reusable Components` · `REST APIs` · `Authentication` · `Authorization` · `Responsive Design` · `Performance Optimization` · `Route Guards` · `Dynamic Forms`
 
 </p>
 
@@ -171,7 +171,9 @@ Worked on enterprise applications and a low-code platform with **Angular on the 
 - Improved user-facing application features and interactions
 
 ---
-<!--
+
+<!-- GitHub activity sections intentionally hidden until activity grows.
+
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -183,8 +185,6 @@ Worked on enterprise applications and a low-code platform with **Angular on the 
 </div>
 
 ---
-
-<!--
 
 ## 🔥 Contribution Streak
 
