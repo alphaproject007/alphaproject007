@@ -10,7 +10,7 @@
 
 <!-- Profile Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-alphaproject007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaproject007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankotadiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankotadiya)
 
 <!-- Portfolio intentionally hidden until it is ready
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darshankotadiya.netlify.app/)
