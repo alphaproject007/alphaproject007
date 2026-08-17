@@ -7,9 +7,10 @@
 Building scalable, responsive and user-focused web applications with a strong focus on clean architecture, reusable components and performance.
 
 [![GitHub](https://img.shields.io/badge/GitHub-alphaproject007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaproject007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankotadiya)
+<!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darshankotadiya.netlify.app/)
+-->
 </div>
 
 ---
