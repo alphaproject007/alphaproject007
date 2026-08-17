@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Darshan%20Kotadiya&fontSize=46&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular%20%7C%20Ionic%20%7C%20TypeScript&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Darshan%20Kotadiya&fontSize=48&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Angular%20%7C%20TypeScript%20%7C%20Java&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Angular+%7C+TypeScript+%7C+Ionic+Developer;Building+Scalable+Enterprise+Applications;Frontend+Architecture+%7C+RxJS+%7C+REST+APIs;Java+%2F+Spring+Boot+%7C+Working+Knowledge" alt="Typing animation"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=2F81F7&center=true&vCenter=true&width=820&lines=Full-Stack+Software+Engineer;Angular+%7C+TypeScript+%7C+Ionic+%7C+RxJS;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Enterprise+Applications;Frontend+Architecture+%2B+Backend+Integration" alt="Typing animation"/>
 
 <br/>
 
+<!-- Profile Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-alphaproject007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaproject007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankotadiya)
 
-<!-- Portfolio hidden until ready
+<!-- Portfolio intentionally hidden until it is ready
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darshankotadiya.netlify.app/)
 -->
 
@@ -17,58 +20,81 @@
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-Frontend-focused Software Engineer with **nearly 4 years of professional experience** building enterprise web and hybrid mobile applications.
+Full-Stack Software Engineer with **3.6 years of professional experience**, with a strong foundation in frontend engineering and hands-on experience across enterprise applications, REST APIs and backend services.
 
-I primarily work with **Angular, TypeScript, JavaScript, Ionic and RxJS**, with working knowledge of **Java, Spring Boot and REST APIs**.
+I primarily work with **Angular, TypeScript, JavaScript, Ionic and RxJS**, along with working knowledge of **Java, Spring Boot, REST APIs and SQL**.
 
-I enjoy turning business requirements into clean, reusable and maintainable interfaces while keeping performance, scalability and user experience in mind.
+I enjoy building applications where **frontend architecture, backend integration and business workflows** work together to deliver scalable and maintainable products.
 
-- 💻 Angular-focused frontend development
+- 💻 Angular-focused full-stack development
 - 📱 Web and hybrid mobile applications with Ionic
-- 🧩 Reusable components and scalable UI architecture
+- 🧩 Reusable components and scalable application architecture
 - 🔄 RxJS, reactive programming and API-driven workflows
+- ☕ Java / Spring Boot backend integration
 - 🔐 JWT authentication, RBAC and session management
-- ⚡ Lazy loading, responsive UI and performance optimization
-- ☕ Java / Spring Boot working knowledge
-- 🛠️ Enterprise application and ERP development
+- 🗄️ REST APIs, MySQL and PostgreSQL
+- ⚡ Responsive UI, lazy loading and performance optimization
+- 🛠️ Enterprise applications, ERP systems and low-code platforms
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### Frontend
+### 🎨 Frontend
 
-<p align="center">
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,ionic" />
+
 </p>
 
-### Reactive & State Management
+### 🔄 Reactive & State Management
 
-<p align="center">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=rxjs" />
+
+<br/>
 
 `RxJS` &nbsp; `NgRx` &nbsp; `Reactive Forms` &nbsp; `Change Detection` &nbsp; `Lazy Loading`
 
 </p>
 
-### Backend & Database
+### ⚙️ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+
+<br/>
+
+`Java` &nbsp; `Spring Boot` &nbsp; `REST APIs` &nbsp; `JWT` &nbsp; `RBAC`
+
 </p>
 
-### Tools & Workflow
+### 🗄️ Database
 
-<p align="center">
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+</p>
+
+### 🔧 Tools & Development
+
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,jenkins,webpack,vscode" />
+
 </p>
 
-### Engineering Practices
+### 🧠 Engineering Practices
 
-<p align="center">
+<p align="left">
 
-`Angular Architecture` · `Reusable Components` · `REST APIs` · `JWT` · `RBAC` · `Responsive Design` · `Performance Optimization` · `Route Guards`
+`Angular Architecture` · `Reusable Components` · `REST APIs` · `Authentication` · `Authorization` · `Responsive Design` · `Performance Optimization` · `Route Guards` · `Dynamic Forms`
 
 </p>
 
@@ -78,15 +104,16 @@ I enjoy turning business requirements into clean, reusable and maintainable inte
 
 ### Software Developer Engineer — Gemba Concepts
 
-Worked on enterprise applications and a low-code platform with Angular on the frontend and Java-based services on the backend.
+Worked on enterprise applications and a low-code platform with **Angular on the frontend and Java-based services on the backend**.
 
-**Key areas**
+### Key Areas
 
 - Developed and enhanced Angular features across enterprise applications
 - Built reusable UI components and dynamic form-driven workflows
 - Worked with metadata-driven application patterns
 - Integrated frontend modules with REST APIs
-- Worked with authentication, authorization and role-based access
+- Worked with Java backend services and API-driven workflows
+- Implemented authentication, authorization and role-based access
 - Improved responsive UI, maintainability and application performance
 
 ---
@@ -97,12 +124,13 @@ Worked on enterprise applications and a low-code platform with Angular on the fr
 
 **Low-code enterprise application platform**
 
-`Angular` `TypeScript` `Java` `REST APIs` `RBAC` `Dynamic Forms`
+`Angular` `TypeScript` `Java` `Spring Boot` `REST APIs` `RBAC` `Dynamic Forms`
 
 - Worked on reusable Angular features for a metadata-driven platform
 - Enhanced dynamic forms and configurable workflows
 - Integrated Angular modules with Java REST services
 - Worked with authentication and role-based application flows
+- Contributed to enterprise workflows across frontend and backend integration
 
 ---
 
@@ -116,6 +144,7 @@ Worked on enterprise applications and a low-code platform with Angular on the fr
 - Enhanced inventory, planning and BOM-related functionality
 - Built responsive experiences across web and mobile
 - Integrated frontend workflows with backend APIs
+- Worked on business-driven enterprise screens and workflows
 
 ---
 
@@ -127,6 +156,7 @@ Worked on enterprise applications and a low-code platform with Angular on the fr
 
 - Worked on quality inspection workflows
 - Built practical, form-driven experiences for operational users
+- Contributed to mobile application workflows used in manufacturing processes
 
 ---
 
@@ -138,9 +168,10 @@ Worked on enterprise applications and a low-code platform with Angular on the fr
 
 - Enhanced Angular-based learning workflows
 - Worked on reusable components and responsive layouts
+- Improved user-facing application features and interactions
 
 ---
-
+<!--
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -152,6 +183,8 @@ Worked on enterprise applications and a low-code platform with Angular on the fr
 </div>
 
 ---
+
+<!--
 
 ## 🔥 Contribution Streak
 
@@ -171,7 +204,7 @@ Worked on enterprise applications and a low-code platform with Angular on the fr
 
 </div>
 
----
+-->
 
 ## 🎯 Current Focus
 
@@ -185,8 +218,15 @@ Frontend Engineering
 ├── Performance optimization
 └── REST API integration
 
-Full-Stack Growth
+Backend Engineering
 ├── Java
 ├── Spring Boot
 ├── REST APIs
+├── Authentication & Authorization
 └── SQL
+
+Full-Stack Development
+├── Frontend ↔ Backend integration
+├── Enterprise application architecture
+├── API-driven workflows
+└── Scalable application development
