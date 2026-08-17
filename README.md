@@ -1,30 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm Darshan Kotadiya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Darshan%20Kotadiya&fontSize=46&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular%20%7C%20Ionic%20%7C%20TypeScript&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-### Frontend Developer | Angular | Ionic | TypeScript | Java / Spring Boot
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=720&lines=Angular+%7C+TypeScript+%7C+Ionic+Developer;Building+Scalable+Enterprise+Applications;Frontend+Architecture+%7C+RxJS+%7C+REST+APIs;Java+%2F+Spring+Boot+%7C+Working+Knowledge" alt="Typing animation"/>
 
-Building scalable, responsive and user-focused web applications with a strong focus on clean architecture, reusable components and performance.
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-alphaproject007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaproject007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankotadiya)
-<!--
+
+<!-- Portfolio hidden until ready
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darshankotadiya.netlify.app/)
 -->
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend-focused Software Engineer with nearly 4 years of professional experience
-- 🅰️ Strong focus on Angular, TypeScript, JavaScript and Ionic
-- 🧩 Experienced in reusable UI components, routing, lazy loading, forms and RxJS
-- ⚡ Interested in frontend architecture, performance and maintainable code
-- 🔐 Worked with JWT authentication, RBAC and session management
-- ☕ Working knowledge of Java, Spring Boot and REST APIs
-- 📱 Experience building responsive web and hybrid mobile applications
-- 🎯 Open to Frontend, Angular and Angular + Java opportunities
+Frontend-focused Software Engineer with **nearly 4 years of professional experience** building enterprise web and hybrid mobile applications.
+
+I primarily work with **Angular, TypeScript, JavaScript, Ionic and RxJS**, with working knowledge of **Java, Spring Boot and REST APIs**.
+
+I enjoy turning business requirements into clean, reusable and maintainable interfaces while keeping performance, scalability and user experience in mind.
+
+- 💻 Angular-focused frontend development
+- 📱 Web and hybrid mobile applications with Ionic
+- 🧩 Reusable components and scalable UI architecture
+- 🔄 RxJS, reactive programming and API-driven workflows
+- 🔐 JWT authentication, RBAC and session management
+- ⚡ Lazy loading, responsive UI and performance optimization
+- ☕ Java / Spring Boot working knowledge
+- 🛠️ Enterprise application and ERP development
 
 ---
 
@@ -32,25 +40,37 @@ Building scalable, responsive and user-focused web applications with a strong fo
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,rxjs,ionic" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,ionic" />
+</p>
+
+### Reactive & State Management
+
+<p align="center">
+
+`RxJS` &nbsp; `NgRx` &nbsp; `Reactive Forms` &nbsp; `Change Detection` &nbsp; `Lazy Loading`
+
 </p>
 
 ### Backend & Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres" />
 </p>
 
-### Tools
+### Tools & Workflow
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,jenkins,webpack,vscode" />
 </p>
 
-### Engineering
+### Engineering Practices
 
-`Angular Architecture` · `Reusable Components` · `RxJS` · `NgRx` · `Lazy Loading` · `Route Guards` · `Reactive Forms` · `REST APIs` · `JWT` · `RBAC` · `Responsive Design` · `Performance Optimization`
+<p align="center">
+
+`Angular Architecture` · `Reusable Components` · `REST APIs` · `JWT` · `RBAC` · `Responsive Design` · `Performance Optimization` · `Route Guards`
+
+</p>
 
 ---
 
@@ -58,31 +78,33 @@ Building scalable, responsive and user-focused web applications with a strong fo
 
 ### Software Developer Engineer — Gemba Concepts
 
-Worked on enterprise applications and a low-code platform with a strong focus on Angular frontend development, reusable components and business-driven workflows.
+Worked on enterprise applications and a low-code platform with Angular on the frontend and Java-based services on the backend.
 
-**Key areas:**
+**Key areas**
 
-- Angular application development and feature enhancement
-- Metadata-driven and dynamic UI workflows
-- Reusable components and enterprise forms
-- REST API integration with Java backend services
-- Authentication, authorization and role-based access
-- Responsive UI and performance improvements
+- Developed and enhanced Angular features across enterprise applications
+- Built reusable UI components and dynamic form-driven workflows
+- Worked with metadata-driven application patterns
+- Integrated frontend modules with REST APIs
+- Worked with authentication, authorization and role-based access
+- Improved responsive UI, maintainability and application performance
 
 ---
 
-## 📦 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 Gemba Connect
 
-**Low-code enterprise platform**
+**Low-code enterprise application platform**
 
 `Angular` `TypeScript` `Java` `REST APIs` `RBAC` `Dynamic Forms`
 
 - Worked on reusable Angular features for a metadata-driven platform
-- Built and enhanced dynamic forms and configurable workflows
-- Integrated frontend modules with Java REST services
-- Worked with role-based access and enterprise authentication
+- Enhanced dynamic forms and configurable workflows
+- Integrated Angular modules with Java REST services
+- Worked with authentication and role-based application flows
+
+---
 
 ### 🔹 Kenzol
 
@@ -91,9 +113,11 @@ Worked on enterprise applications and a low-code platform with a strong focus on
 `Angular` `Ionic` `TypeScript` `REST APIs`
 
 - Worked on manufacturing ERP workflows
-- Enhanced inventory, planning and BOM-related screens
-- Built responsive experiences for web and mobile
+- Enhanced inventory, planning and BOM-related functionality
+- Built responsive experiences across web and mobile
 - Integrated frontend workflows with backend APIs
+
+---
 
 ### 🔹 Quality Management App
 
@@ -101,8 +125,10 @@ Worked on enterprise applications and a low-code platform with a strong focus on
 
 `React Native` `Mobile UI` `REST APIs`
 
-- Worked on mobile workflows for quality inspection
-- Built practical form-driven experiences for operational teams
+- Worked on quality inspection workflows
+- Built practical, form-driven experiences for operational users
+
+---
 
 ### 🔹 Beacon
 
@@ -115,7 +141,7 @@ Worked on enterprise applications and a low-code platform with a strong focus on
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -127,7 +153,7 @@ Worked on enterprise applications and a low-code platform with a strong focus on
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -141,7 +167,7 @@ Worked on enterprise applications and a low-code platform with a strong focus on
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alphaproject007&hide_border=true&area=true&custom_title=Darshan's%20GitHub%20Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alphaproject007&hide_border=true&area=true&custom_title=Darshan%27s%20GitHub%20Activity" />
 
 </div>
 
