@@ -1,35 +1,67 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- ==================== ANIMATED HEADER ==================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Darshan%20Kotadiya&fontSize=48&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Angular%20%7C%20TypeScript%20%7C%20Java&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=2F81F7&center=true&vCenter=true&width=820&lines=Full-Stack+Software+Engineer;Angular+%7C+TypeScript+%7C+Ionic+%7C+RxJS;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Enterprise+Applications;Frontend+Architecture+%2B+Backend+Integration" alt="Typing animation"/>
+<!-- ==================== TYPING ANIMATION ==================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=2F81F7&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Angular+%7C+TypeScript+%7C+Ionic+%7C+RxJS;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Enterprise+Applications;Frontend+Architecture+%2B+Backend+Integration;Web+%2B+Android+%2B+iOS+Application+Development" alt="Typing animation"/>
 
 <br/>
 
-<!-- Profile Links -->
-[![GitHub](https://img.shields.io/badge/GitHub-alphaproject007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaproject007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankotadiya)
+<!-- ==================== SOCIAL LINKS ==================== -->
+
+<a href="https://www.linkedin.com/in/darshankotadiya">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://x.com/DarshanK_07">
+  <img
+    src="https://cdn.simpleicons.org/x/FFFFFF"
+    width="42"
+    height="42"
+    alt="X"
+  />
+</a>
 
 <!-- Portfolio intentionally hidden until it is ready
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darshankotadiya.netlify.app/)
+
+&nbsp;&nbsp;
+
+<a href="https://darshankotadiya.netlify.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
 -->
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-Full-Stack Software Engineer with **3.6 years of professional experience**, with a strong foundation in frontend engineering and hands-on experience across enterprise applications, REST APIs and backend services.
+Full-Stack Software Engineer with **3.6 years of professional experience**, with a strong foundation in frontend engineering and hands-on experience across enterprise applications, REST APIs, backend services and hybrid mobile applications.
 
 I primarily work with **Angular, TypeScript, JavaScript, Ionic and RxJS**, along with working knowledge of **Java, Spring Boot, REST APIs and SQL**.
 
-I enjoy building applications where **frontend architecture, backend integration and business workflows** work together to deliver scalable and maintainable products.
+I also have experience building **Angular + Ionic applications for web, Android and iOS**, including mobile builds, platform configuration and application deployment workflows using **Android Studio and Xcode**.
+
+I enjoy building applications where **frontend architecture, backend integration, mobile experiences and business workflows** work together to deliver scalable and maintainable products.
 
 - 💻 Angular-focused full-stack development
-- 📱 Web and hybrid mobile applications with Ionic
+- 📱 Angular + Ionic hybrid mobile application development
+- 🌐 Web application development
+- 🤖 Android application build & deployment workflows
+- 🍎 iOS application build & deployment workflows
 - 🧩 Reusable components and scalable application architecture
 - 🔄 RxJS, reactive programming and API-driven workflows
 - ☕ Java / Spring Boot backend integration
@@ -40,71 +72,105 @@ I enjoy building applications where **frontend architecture, backend integration
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
-### 🎨 Frontend
+## 🎨 Frontend
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
 
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap,ionic" />
-
-</p>
-
-**Core:** `Angular Architecture` · `Reusable Components` · `Responsive Design` · `Reactive Forms` · `Lazy Loading` · `Route Guards`
-
----
-
-### 🔄 Reactive & State Management
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=rxjs" />
+<img src="https://skillicons.dev/icons?i=angular" width="52" height="52" alt="Angular"/>
+<img src="https://skillicons.dev/icons?i=ts" width="52" height="52" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" width="52" height="52" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="52" height="52" alt="Bootstrap"/>
 
 </p>
 
-`RxJS` · `NgRx` · `Reactive Programming` · `Change Detection` · `Observable Patterns`
+**Skills:** Angular Architecture · Reusable Components · Responsive Design · Reactive Forms · Lazy Loading · Route Guards
 
 ---
 
-### ⚙️ Backend
+## 📱 Mobile Development
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
 
-<img src="https://skillicons.dev/icons?i=java,spring" />
+<img src="https://cdn.simpleicons.org/ionic/3880FF" width="52" height="52" alt="Ionic"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" width="52" height="52" alt="Android Studio"/>
+<img src="https://cdn.simpleicons.org/xcode/147EFB" width="52" height="52" alt="Xcode"/>
 
 </p>
 
-`Java` · `Spring Boot` · `REST APIs` · `JWT` · `RBAC` · `API Integration`
+**Skills:** Hybrid Mobile Development · Android Builds · iOS Builds · Platform Configuration · App Packaging · Mobile Deployment
 
 ---
 
-### 🗄️ Database
+## 🔄 Reactive & State Management
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://cdn.simpleicons.org/reactivex/B7178C" width="52" height="52" alt="RxJS / ReactiveX"/>
 
 </p>
 
-`MySQL` · `PostgreSQL` · `SQL`
+**Skills:** RxJS · NgRx · Reactive Programming · Change Detection · Observable Patterns · Async Data Flows
 
 ---
 
-### 🔧 Tools & Development
+## ⚙️ Backend
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
 
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,jenkins,webpack,vscode" />
+<img src="https://skillicons.dev/icons?i=java" width="52" height="52" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=spring" width="52" height="52" alt="Spring Boot"/>
 
 </p>
 
+**Skills:** REST API Development · API Integration · Authentication · Authorization · Role-Based Access Control
+
+**Additional:** JWT · RBAC
+
 ---
 
-## 💼 Professional Experience
+## 🗄️ Database
+
+<p align="left" style="white-space: nowrap;">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL"/>
+
+</p>
+
+**Skills:** SQL · Relational Databases · Data Modeling · Database Integration
+
+---
+
+## 🔧 Tools & Development
+
+<p align="left" style="white-space: nowrap;">
+
+<img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=bitbucket" width="52" height="52" alt="Bitbucket"/>
+<img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="52" height="52" alt="Jenkins"/>
+<img src="https://skillicons.dev/icons?i=webpack" width="52" height="52" alt="Webpack"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code"/>
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="52" height="52" alt="Jira"/>
+<img src="https://cdn.simpleicons.org/githubcopilot/000000" width="52" height="52" alt="GitHub Copilot"/>
+
+</p>
+
+**Skills:** Version Control · API Testing · CI/CD · Build Optimization · Project Tracking · AI-Assisted Development
+
+---
+
+# 💼 Professional Experience
 
 ### Software Developer Engineer — Gemba Concepts
 
 Worked on enterprise applications and a low-code platform with **Angular on the frontend and Java-based services on the backend**.
+
+Also worked on hybrid mobile application workflows using **Angular + Ionic**, including Android and iOS build and deployment processes.
 
 ### Key Areas
 
@@ -114,11 +180,15 @@ Worked on enterprise applications and a low-code platform with **Angular on the 
 - Integrated frontend modules with REST APIs
 - Worked with Java backend services and API-driven workflows
 - Implemented authentication, authorization and role-based access
+- Developed and enhanced Angular + Ionic mobile applications
+- Prepared Android application builds using Android Studio
+- Worked with iOS application builds and deployment workflows using Xcode
+- Handled platform-specific configuration and build-related requirements
 - Improved responsive UI, maintainability and application performance
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔹 Gemba Connect
 
@@ -138,11 +208,15 @@ Worked on enterprise applications and a low-code platform with **Angular on the 
 
 **Web & Mobile Manufacturing ERP**
 
-`Angular` `Ionic` `TypeScript` `REST APIs`
+`Angular` `Ionic` `TypeScript` `REST APIs` `Android` `iOS`
 
 - Worked on manufacturing ERP workflows
 - Enhanced inventory, planning and BOM-related functionality
 - Built responsive experiences across web and mobile
+- Developed and enhanced Angular + Ionic mobile workflows
+- Prepared Android application builds and deployment packages
+- Worked with Android Studio for mobile build and configuration workflows
+- Worked with Xcode for iOS build and deployment workflows
 - Integrated frontend workflows with backend APIs
 - Worked on business-driven enterprise screens and workflows
 
@@ -172,15 +246,25 @@ Worked on enterprise applications and a low-code platform with **Angular on the 
 
 ---
 
-<!-- GitHub activity sections intentionally hidden until activity grows.
+<!--
+========================================================
+GitHub Activity Sections
+Intentionally hidden until GitHub activity grows
+========================================================
 
 ## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alphaproject007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=alphaproject007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaproject007&layout=compact&hide_border=true&langs_count=8" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaproject007&layout=compact&hide_border=true&langs_count=8"
+/>
 
 </div>
 
@@ -190,7 +274,9 @@ Worked on enterprise applications and a low-code platform with **Angular on the 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alphaproject007&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=alphaproject007&hide_border=true"
+/>
 
 </div>
 
@@ -200,13 +286,15 @@ Worked on enterprise applications and a low-code platform with **Angular on the 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alphaproject007&hide_border=true&area=true&custom_title=Darshan%27s%20GitHub%20Activity" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alphaproject007&hide_border=true&area=true&custom_title=Darshan%27s%20GitHub%20Activity"
+/>
 
 </div>
 
 -->
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 ```text
 Frontend Engineering
@@ -217,6 +305,15 @@ Frontend Engineering
 ├── Responsive UI
 ├── Performance optimization
 └── REST API integration
+
+Mobile Engineering
+├── Angular + Ionic
+├── Hybrid mobile applications
+├── Android builds
+├── iOS builds
+├── Android Studio
+├── Xcode
+└── Mobile deployment workflows
 
 Backend Engineering
 ├── Java
