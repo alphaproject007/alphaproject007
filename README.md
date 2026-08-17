@@ -10,38 +10,19 @@
 
 <br/>
 
-<!-- ==================== SOCIAL LINKS ==================== -->
-
-<a href="https://www.linkedin.com/in/darshankotadiya">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://x.com/DarshanK_07">
-  <img
-    src="https://cdn.simpleicons.org/x/FFFFFF"
-    width="42"
-    height="42"
-    alt="X"
-  />
-</a>
-
-<!-- Portfolio intentionally hidden until it is ready
-
-&nbsp;&nbsp;
-
-<a href="https://darshankotadiya.netlify.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
--->
+  <!-- ==================== SOCIAL LINKS ==================== -->
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankotadiya)
+  &nbsp;
+  [![X](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DarshanK_07)
+  
+  <!-- Portfolio intentionally hidden until it is ready
+  
+  &nbsp;
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darshankotadiya.netlify.app/)
+  
+  -->
 
 </div>
 
